@@ -1,0 +1,16 @@
+.Footer{
+    background-color:black;
+    width: 100vw;
+    height: 30vh;
+}
+
+.Footer-up p{
+   margin-right: 25rem;   
+}
+.Footer-content p{
+    margin-right: 38rem;   
+ }
+.Footer p{
+    color:whitesmoke;
+    font-size: small;
+}

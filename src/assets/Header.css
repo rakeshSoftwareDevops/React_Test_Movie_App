@@ -1,0 +1,41 @@
+.Header{
+    width: 100vw;
+  
+}
+
+.Header-up{
+    background-color:blue;
+    display:flex;
+    justify-content: space-between; 
+}
+
+.Main-content{
+    background-color: black;
+    text-align: left;
+
+ }
+ .Left-content p{
+     margin-left: 2rem;
+ }
+ .Main-content p{
+    margin-left: 2rem;
+
+ }
+p{
+    color:white;
+    display: inline-block;
+
+}
+.LoginPara{
+    margin-right: 7rem;
+}
+.InnerRight-content{
+    margin-right: 5rem;
+    background-color: black;
+    display: inline-block;
+    margin-top: 1rem;
+    height: 3.2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}

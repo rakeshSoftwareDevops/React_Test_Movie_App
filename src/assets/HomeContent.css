@@ -1,0 +1,35 @@
+.HomeContent{
+    height:50vh;
+    width: 100vw;
+    margin: 0 auto;
+}
+.MovieTitles{
+  display:flex;
+  margin-top: 50px;
+
+}
+.Tiles{
+  min-width: 100px;
+  width:10%;
+  height:100px;
+  margin-left:5rem;
+  background-color:black;
+}
+.Tiles2{
+  min-width: 100px;
+  width:10%;
+  height:100px;
+  margin-left:1rem;
+  background-color:black;
+}
+.Category{
+  color:black;
+  font-size: small;
+}
+.Series p{
+  color:white;
+  text-align:center;
+  margin: auto;
+  padding: 40px 0;
+
+}
