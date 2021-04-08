@@ -14,3 +14,22 @@
     color:whitesmoke;
     font-size: small;
 }
+.FooterLeftIcons{
+    margin-top: 2rem;
+    float: left;
+}
+.FooterRightIcons{
+    margin-top: 2rem;
+    float: right;
+    margin-right:2rem;
+    padding-right:2rem;
+}
+.FooterRightIcons1{
+    margin-right: 5rem;
+}
+.FooterRightIcons2{
+    margin-right: 1rem;
+}
+.FooterRightIcons3{
+    margin-right: 1rem;
+}
